@@ -1,0 +1,64 @@
+Current date is: 2017-01-15 time is: 10:21:23.660 milliseconds to process 1510  precision is: 100.0
+Current date is: 2017-01-15 time is: 10:21:30.641 milliseconds to process 1502  precision is: 100.0
+Current date is: 2017-01-15 time is: 12:15:54.219 milliseconds to process 1669  precision is: 20.0
+Current date is: 2017-01-15 time is: 12:22:36.052 milliseconds to process 1655  precision is: 100.0
+Current date is: 2017-01-15 time is: 12:25:28.593 milliseconds to process 1636  precision is: 100.0 number of units to check: 10 number of test units: 60000
+Current date is: 2017-01-15 time is: 12:26:54.071 milliseconds to process 1562;  precision is: 100.0; number of units to check: 10; number of test units: 60000
+Current date is: 2017-01-15 time is: 12:33:50.777 milliseconds to process 1625;  precision is: 100.0; number of units to check: 10; number of test units: 60000
+Current date is: 2017-01-15 time is: 21:37:25.539 milliseconds to process 1446;  precision is: 100.0; number of units to check: 10; number of test units: 60000
+Current date is: 2017-01-16 time is: 10:35:03.822 milliseconds to process 1099;  precision is: 100.0; number of units to check: 10; number of test units: 60000
+Current date is: 2017-01-16 time is: 11:00:03.637 milliseconds to process 1192;  precision is: 100.0; number of units to check: 10; number of test units: 60000
+Current date is: 2017-01-16 time is: 13:57:37.966 milliseconds to process 18480;  precision is: 89.0; number of units to check: 200; number of test units: 60000
+Current date is: 2017-01-16 time is: 14:19:40.898 milliseconds to process 2137;  precision is: 95.0; number of units to check: 20; number of test units: 60000
+Current date is: 2017-01-16 time is: 14:30:27.736 milliseconds to process 182;  precision is: 100.0; number of units to check: 1; number of test units: 60000
+Current date is: 2017-01-16 time is: 14:31:33.774 milliseconds to process 177;  precision is: 100.0; number of units to check: 1; number of test units: 60000
+Current date is: 2017-01-16 time is: 14:31:45.741 milliseconds to process 433;  precision is: 100.0; number of units to check: 10; number of test units: 60000
+Current date is: 2017-01-16 time is: 14:35:05.924 milliseconds to process 9311;  precision is: 90.0; number of units to check: 100;; number of test units: 60000; number of threads1
+Current date is: 2017-01-16 time is: 14:35:23.370 milliseconds to process 2540;  precision is: 90.0; number of units to check: 100;; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 14:35:36.425 milliseconds to process 3081;  precision is: 90.0; number of units to check: 100;; number of test units: 60000; number of threads4
+Current date is: 2017-01-16 time is: 14:37:46.262 milliseconds to process 22085;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 14:39:56.199 milliseconds to process 90603;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads1
+Current date is: 2017-01-16 time is: 14:43:56.742 milliseconds to process 90067;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads1 without threading!
+Current date is: 2017-01-16 time is: 15:02:57.205 milliseconds to process 905547;  precision is: 90.24; number of units to check: 10000; number of test units: 60000; number of threads1
+Current date is: 2017-01-16 time is: 15:07:18.358 milliseconds to process 225555;  precision is: 90.24; number of units to check: 10000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 15:07:55.606 milliseconds to process 2963;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads80
+Current date is: 2017-01-16 time is: 16:47:32.747 milliseconds to process 20009;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 16:47:53.234 milliseconds to process 442;  precision is: 100.0; number of units to check: 10; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 16:48:30.851 milliseconds to process 21465;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 16:52:15.577 milliseconds to process 21447;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 16:53:45.098 milliseconds to process 21302;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 16:56:24.584 milliseconds to process 21558;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 16:57:12.904 milliseconds to process 21344;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 17:06:36.295 milliseconds to process 21906;  precision is: 87.4; number of units to check: 1000; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 17:06:59.556 milliseconds to process 2572;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 17:08:18.115 milliseconds to process 2534;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 17:11:32.855 milliseconds to process 2588;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 17:16:26.558 milliseconds to process 2785;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 17:21:53.404 milliseconds to process 9313;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads1
+Current date is: 2017-01-16 time is: 17:25:25.830 milliseconds to process 9308;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads1
+Current date is: 2017-01-16 time is: 18:29:23.654 milliseconds to process 10500;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads1
+Current date is: 2017-01-16 time is: 18:30:53.126 milliseconds to process 7032;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 18:43:41.078 milliseconds to process 6719;  precision is: 90.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 18:44:00.968 milliseconds to process 7078;  precision is: 95.0; number of units to check: 100; number of test units: 60000; number of threads8
+Current date is: 2017-01-16 time is: 18:45:11.406 milliseconds to process 54515;  precision is: 92.1; number of units to check: 1000; number of test units: 60000; number of threads8; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:01:38.654 milliseconds to process 58678;  precision is: 92.1; number of units to check: 1000; number of test units: 60000; number of threads8; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:06:01.651 milliseconds to process 54781;  precision is: 96.1; number of units to check: 1000; number of test units: 60000; number of threads8; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:07:59.269 milliseconds to process 6593;  precision is: 99.0; number of units to check: 100; number of test units: 60000; number of threads8; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:08:18.146 milliseconds to process 6422;  precision is: 96.0; number of units to check: 100; number of test units: 60000; number of threads8; nearest neighbors10
+Current date is: 2017-01-16 time is: 19:08:35.583 milliseconds to process 6984;  precision is: 99.0; number of units to check: 100; number of test units: 60000; number of threads8; nearest neighbors3
+Current date is: 2017-01-16 time is: 19:09:45.161 milliseconds to process 54312;  precision is: 96.2; number of units to check: 1000; number of test units: 60000; number of threads4; nearest neighbors3
+Current date is: 2017-01-16 time is: 19:13:25.994 milliseconds to process 7516;  precision is: 99.0; number of units to check: 100; number of test units: 60000; number of threads4; nearest neighbors3
+Current date is: 2017-01-16 time is: 19:14:10.481 milliseconds to process 6907;  precision is: 99.0; number of units to check: 100; number of test units: 60000; number of threads4; nearest neighbors3
+Current date is: 2017-01-16 time is: 19:15:35.377 milliseconds to process 12422;  precision is: 98.5; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:16:01.205 milliseconds to process 12219;  precision is: 98.5; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors3
+Current date is: 2017-01-16 time is: 19:16:24.158 milliseconds to process 12156;  precision is: 97.0; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors8
+Current date is: 2017-01-16 time is: 19:16:45.549 milliseconds to process 12015;  precision is: 98.0; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors6
+Current date is: 2017-01-16 time is: 19:17:07.518 milliseconds to process 12328;  precision is: 98.5; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:23:09.565 milliseconds to process 12328;  precision is: 98.5; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:23:51.518 milliseconds to process 12797;  precision is: 98.5; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:24:16.346 milliseconds to process 12296;  precision is: 98.5; number of units to check: 200; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:25:59.988 milliseconds to process 2187;  precision is: 100.0; number of units to check: 20; number of test units: 60000; number of threads4; nearest neighbors0
+Current date is: 2017-01-16 time is: 19:34:59.937 milliseconds to process 1985;  precision is: 100.0; number of units to check: 20; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:37:42.850 milliseconds to process 109098;  precision is: 95.65; number of units to check: 2000; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 19:47:32.347 milliseconds to process 112312;  precision is: 95.65; number of units to check: 2000; number of test units: 60000; number of threads4; nearest neighbors5
+Current date is: 2017-01-16 time is: 20:26:22.138 milliseconds to process 550395;  precision is: 96.88; number of units to check: 10000; number of test units: 60000; number of threads4; nearest neighbors5
